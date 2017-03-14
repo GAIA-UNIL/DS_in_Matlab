@@ -1,0 +1,11 @@
+Simulation Grid Dimension (x,y,z)\t50\t50\t1
+Search Radii (X , Y)\t15\t15\t
+Fraction of ti which is scanned\t0.1\t\t
+Distance type\tContinuous variable\t\t
+Distance threshold\t0\t\t
+Maximum number of nodes in dataevent\t40\t\t
+Window type\tSquared\t\t
+Bunch size\t1\t\t
+Conditioning mode\tConditional Simulation\t\t
+Simulation path mode\tThe Uni-Lateral or Raster path is adopted\t\t
+Number of realizations to be produced\t1\t\t
