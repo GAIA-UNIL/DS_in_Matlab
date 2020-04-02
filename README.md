@@ -1,3 +1,3 @@
-# DS_in_Matlab
+# DS in Matlab 
 
 These codes are for pedagogical demonstration purposes only. They are highly inefficient: THEY SHOULD NOT BE USED FOR BENCHMARK
